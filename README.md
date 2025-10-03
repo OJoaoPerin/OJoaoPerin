@@ -9,7 +9,7 @@
 <p align="middle">💼 Currently working in 💼</p>
 
 <p align="center">
-  <a href="https://spacelab.ufsc.br" target="_blank">
+  <a href="https://github.com/spacelab-ufsc" target="_blank">
   <img src="images/SpaceLab_White_FullLogo.png" width="250">
   </a>
 </p>
